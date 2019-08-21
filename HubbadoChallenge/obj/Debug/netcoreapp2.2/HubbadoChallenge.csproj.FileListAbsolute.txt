@@ -1,0 +1,11 @@
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/bin/Debug/netcoreapp2.2/HubbadoChallenge.deps.json
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/bin/Debug/netcoreapp2.2/HubbadoChallenge.runtimeconfig.json
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/bin/Debug/netcoreapp2.2/HubbadoChallenge.runtimeconfig.dev.json
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/bin/Debug/netcoreapp2.2/HubbadoChallenge.dll
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/bin/Debug/netcoreapp2.2/HubbadoChallenge.pdb
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/obj/Debug/netcoreapp2.2/HubbadoChallenge.csprojAssemblyReference.cache
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/obj/Debug/netcoreapp2.2/HubbadoChallenge.csproj.CoreCompileInputs.cache
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/obj/Debug/netcoreapp2.2/HubbadoChallenge.AssemblyInfoInputs.cache
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/obj/Debug/netcoreapp2.2/HubbadoChallenge.AssemblyInfo.cs
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/obj/Debug/netcoreapp2.2/HubbadoChallenge.dll
+/Users/ayoola/Documents/Hubbado/HubbadoChallenge/obj/Debug/netcoreapp2.2/HubbadoChallenge.pdb
