@@ -6,6 +6,7 @@ namespace HubbadoChallenge
     {
         static void Main(string[] args)
         {
+            //
            PrimeChallenge prime=new PrimeChallenge();
            prime.GeneratePrimesOfTableCells(3);
         }
